@@ -23,7 +23,7 @@ const Home: NextPage = () => {
         <InputField placeholder="Nome" />
         <InputField placeholder="Sobrenome" />
         <SelectField name="plan" options={["Básico", "Padrão", "Premium"]} />
-        <button>Seguindo</button>
+        <button>Próximo</button>
       </form>
     </div>
   );
